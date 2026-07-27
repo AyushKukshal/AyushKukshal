@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ayush Kukshal</h1>
+<h1>Hi 👋, I'm Ayush Kukshal</h1>
 
 <h3 align="center">
-A passionate Computer Science student from India 🇮🇳
+A passionate Computer Science student. 
 </h3>
 
 <p align="center">
