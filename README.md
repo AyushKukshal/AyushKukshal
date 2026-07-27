@@ -14,6 +14,14 @@ Building software • Solving problems • Learning every day
 
 ---
 
+---
+
+## 👾 Pac-Man Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/AyushKukshal/AyushKukshal/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
+</p>
+
 ## 👨‍💻 About Me
 
 - 🎓 Second-Year B.Tech Computer Science Student
