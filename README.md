@@ -42,8 +42,6 @@ Building software • Solving problems • Learning every day
 
 ---
 
-## 👾 Pac-Man Contribution Graph
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/AyushKukshal/AyushKukshal/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
 </p>
