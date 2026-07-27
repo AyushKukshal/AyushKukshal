@@ -14,6 +14,13 @@ Building software • Solving problems • Learning every day
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AyushKukshal/AyushKukshal/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
+</p>
+
+
+---
+
 ## 👨‍💻 About Me
 
 - 🎓 Second-Year B.Tech Computer Science Student
@@ -40,8 +47,4 @@ Building software • Solving problems • Learning every day
   <img src="https://streak-stats.demolab.com?user=AyushKukshal&theme=github-dark&hide_border=true" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AyushKukshal/AyushKukshal/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
-</p>
