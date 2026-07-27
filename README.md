@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush Kukshal</h1>
 
 <h3 align="center">
-Computer Science Student | C++ Developer | Full Stack Learner
+A passionate Computer Science student from India 🇮🇳
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;C%2B%2B+Developer;Full+Stack+Web+Developer;Learning+Machine+Learning;Building+Projects+Every+Day" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;C%2B%2B+Developer;Full+Stack+Web+Developer;Learning+Machine+Learning;Always+Building+Projects" />
 </p>
 
 <p align="center">
@@ -18,9 +16,28 @@ Building software • Solving problems • Learning every day
 
 ## 👨‍💻 About Me
 
-- 🎓 First-Year Computer Science Student
-- 💻 Learning C++, Data Structures & Algorithms
-- 🌐 Exploring Full Stack Development
-- 🤖 Learning Machine Learning
-- 🚀 Building projects to strengthen practical skills
+- 🎓 First-Year B.Tech Computer Science Student
+- 💻 Currently learning **C++, Data Structures & Algorithms**
+- 🌐 Exploring **Full Stack Web Development**
+- 🤖 Learning **Machine Learning**
+- 🚀 Building projects to improve practical skills
 - 📈 Solving LeetCode consistently
+- ⚡ Goal: Become a Software Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mongodb,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushKukshal&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKukshal&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
