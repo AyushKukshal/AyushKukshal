@@ -44,7 +44,7 @@ Building software • Solving problems • Learning every day
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AyushKukshal&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=AyushKukshal&theme=tokyonight" />
 </p>
 
 
